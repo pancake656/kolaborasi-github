@@ -1,8 +1,17 @@
 Daftar kontribusi:
 
-- [ ] Nadiyah Syahidah Almas:
-1. Mencari tahu bagaimana membuat tugas ini  
-2. Menambahkan text
-- [ ] Nabila Aulia Putri:
+- [x] Nadiyah Syahidah Almas:
+1. Membuat repository utama di GitHub.
+2. Membuat folder proyek di Visual Studio Code (VS Code).
+3. Melakukan koneksi antara folder dan repository GitHub.
+4. Melakukan commit dan push pertama untuk mengunggah file ke GitHub.
+5. Menyusun struktur file proyek (README.md, data.txt). 
+6. Menambahkan text.
+
+- [x] Nabila Aulia Putri:
 1. Mempelajari cara clone repository
-2. Menambahkan text
+2. Mengatur koneksi GitHub di VS Code untuk kolaborasi.
+3. Melakukan edit pada file (README.md dan data.txt) untuk menambahkan identitas dan kontribusinya.
+4. Melakukan commit dan push hasil edit ke repository utama GitHub.
+5. Melakukan sinkronisasi perubahan menggunakan git pull agar file selalu terbaru.
+
