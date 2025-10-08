@@ -4,5 +4,5 @@ Daftar kontribusi:
 1. Mencari tahu bagaimana membuat tugas ini  
 2. Menambahkan text
 - [ ] Nabila Aulia Putri:
-1. Mencari tahu bagaimana membuat tugas ini  
+1. Mempelajari cara clone repository
 2. Menambahkan text
